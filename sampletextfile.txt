@@ -1,0 +1,3 @@
+this is text demo for python
+demo words will be mapped
+mapped words in demo will be used by python
